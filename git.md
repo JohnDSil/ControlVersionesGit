@@ -1,6 +1,8 @@
 # Sistemas de control de versiones: Git
 
-![Git](img/git.png)
+<p align="center">
+  <img src="img/git.png" alt="Git" />
+</p>
 
 * Git es una herramienta rápida, eficiente y moderna para el control de versiones de proyectos con archivos digitales sean o no código fuente.
   
