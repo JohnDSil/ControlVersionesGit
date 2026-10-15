@@ -4,11 +4,11 @@
 
 [1.- Introducción](introduccion.md)
 
-[2.- Sistemas de control de versiones: Git](sistemas.md)
+[2.- Sistemas de control de versiones: Git](git.md)
 
-[3.- Lenguaje de marcas: Markdown](lenguaje.md)
+[3.- Lenguaje de marcas: Markdown](markdown.md)
 
-[4.- Repositorio: Github](repositorio.md)
+[4.- Repositorio: Github](github.md)
 
 [5.- Conceptos básicos Git/GitHub.](conceptos.md)
 
