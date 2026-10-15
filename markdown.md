@@ -19,5 +19,5 @@ sencilla de escribir, y que en todo momento mantenga un
 diseño legible, así que para simplificar puedes
 considerar Markdown como un método de escritura.
 
-
+![lenguaje](img/lenguaje.png)
 
